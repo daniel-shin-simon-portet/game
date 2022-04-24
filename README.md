@@ -13,6 +13,7 @@
 * ### Huge 8 x 8 km world giving rise to unique logistical needs
   * (eg. ore transport via truck routes, medical rescue via space shuttle)
 * ### Space Port trade quotas in order to reach higher levels of colonial development
+  * (eg. bonuses and penalties imposed by the interplanetary trade authority)
 * ### Waves of alien invasions for which colonists will have to prepare thoroughly
   * (eg. alien detection via player-built radar towers, defensive walls/weapons/vehicles)
 
