@@ -8,7 +8,7 @@
 * ### **Co-op multiplayer** with up to **40 players** per server
 * ### **Harsh planetary environment** and **unforgiving survival** elements
   * (eg. oxygen, food, water, sleep, physical & mental health)
-* ### **Collaborative base-building** and common tasks
+* ### **Collaborative base-building** and tasks
   * (eg. mining, water production, hydroponic farming, medical rescue)
 * ### **Huge 8 x 8 km world** giving rise to unique **logistical needs**
   * (eg. ore transport via truck routes, medical rescue via space shuttle)
