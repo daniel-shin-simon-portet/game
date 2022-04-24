@@ -38,3 +38,7 @@
 * Player customization (torso decal)
 * PayPal integration (for monthly subscription of around 3 euros)
 * Github website
+
+## My Other Projects
+* [Kanji Rakuen](https://www.kanji-rakuen.org/) for advanced learners of Japanese
+* [AI少女](https://www.tugikuru.jp/novel/content?id=52010) Sci-Fi novel published in Japan
