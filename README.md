@@ -1,6 +1,6 @@
 # I am currently developing a Cooperative Sci-Fi Colony Building Game with the [Godot Engine](https://godotengine.org/)!
 
-![Main Menu](/game/main_menu.png?raw=true "Main Menu")
+![Screenshot 1](/game/main_menu.png?raw=true "Main Menu")
 
 ### Planned Features
 * Co-op multiplayer with up to 40 players per server
