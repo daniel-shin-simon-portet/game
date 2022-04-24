@@ -21,7 +21,7 @@
 * Thus I have opted for low-poly graphics and simplified animations for example. And wherever I can cut back on unnecessary effects and fanciness, I do so. This game is not going to be an AAA game. But its **ORIGINAL** and **UNIQUE** concept will definitely be AAA.
 
 ## It's Going To Take Ages!
-* Let's face it, even with the strongest motivation, it doesn't change the fact that I'm working alone. So yes, development will take years and I wanted to make sure that you understand this.
+* Let's face it, even with the strongest motivation, it doesn't change the fact that I'm working alone. So yes, development will take years and I wanted to make sure that you understood this.
 
 ## Currently Included Features:
 * Terrain and mineable rocks
