@@ -10,7 +10,7 @@
 * **Collaborative base-building** and common tasks (eg. mining, water production, hydroponic farming, medical rescue)
 * **Huge 8 x 8 km world** giving rise to unique **logistical needs** (eg. ore transport via truck routes, medical rescue via space shuttle)
 
-### My motivation
+### Motivation
 * I am mainly programming this game for my father and me. We are both hardcore survival game enthusiasts who are desperately craving for a challenge. It is difficult to find such games since the gaming industry is catered to casual gamers. And we have already tried and enjoyed most of them anyway.
 
 ### Strong Focus on Performance
