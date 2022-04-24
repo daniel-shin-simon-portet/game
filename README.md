@@ -4,13 +4,13 @@
 ![Screenshot 2](captures/main_menu.png?raw=true "Main Menu")
 ![Screenshot 3](captures/decal_editor.png?raw=true "Decal Editor")
 
-### Planned Features
-* **Co-op multiplayer** with up to **40 players** per server
-* **Harsh planetary environment** and **unforgiving survival** elements
+## Planned Features
+* ### **Co-op multiplayer** with up to **40 players** per server
+* ### **Harsh planetary environment** and **unforgiving survival** elements
   * (eg. oxygen, physical & mental health, food, water, sleep)
-* **Collaborative base-building** and common tasks
+* ### **Collaborative base-building** and common tasks
   * (eg. mining, water production, hydroponic farming, medical rescue)
-* **Huge 8 x 8 km world** giving rise to unique **logistical needs**
+* ### **Huge 8 x 8 km world** giving rise to unique **logistical needs**
   * (eg. ore transport via truck routes, medical rescue via space shuttle)
 
 ### Motivation
