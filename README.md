@@ -18,7 +18,7 @@
   * _(eg. alien detection via player-built radar towers, defensive walls/weapons/vehicles)_
 
 ## Strong Focus on Performance
-* I will be honest with you here. I want this game to work smoothly on my 2015 laptop (Intel Core i7 and Nvidia GTX 970M). Many would consider my specs to be on the lower side, even "potato". But there you go, **_my PC is the guideline!_**
+* I will be honest with you here. I want this game to work smoothly on my 2015 laptop (Intel Core i7 and Nvidia GTX 970M). Many would consider my specs to be on the lower side, even "potato". But there you go, **_my PC is the point of reference!_**
 * Thus I have opted for **_low-poly graphics_** and **_simplified animations_** for example. And wherever I can cut back on unnecessary effects and fanciness, I do so. This game is not going to be an AAA game. But its **_ORIGINAL_** and **_UNIQUE_** concept will definitely be AAA.
 
 ## Motivation
