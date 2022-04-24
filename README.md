@@ -14,7 +14,7 @@
   * _(eg. ore transport via truck routes, medical rescue via space shuttle)_
 * ### Space Port trade quotas in order to reach higher levels of colonial development
   * _(eg. bonuses and penalties imposed by the interplanetary trade authority)_
-* ### Waves of alien invasions for which colonists will have to prepare thoroughly
+* ### Waves of alien invasion for which colonists will have to prepare thoroughly
   * _(eg. alien detection via player-built radar towers, defensive walls/weapons/vehicles)_
 
 ## Strong Focus on Performance
