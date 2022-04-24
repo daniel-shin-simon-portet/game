@@ -15,7 +15,7 @@
 
 ### Strong Focus on Performance
 * I will be honest with you here. I want this game to work smoothly on my 2015 laptop (Intel Core i7 and Nvidia GTX 970M). Many would consider my specs to be on the lower side, even "potato". But there you go, my PC is the guideline!
-* Thus I have opted for low-poly graphics and simplified animations for example. And wherever I can cut back on unnecessary effects and fanciness, I do so. This game is not going to be a AAA game. But its ORIGINAL and UNIQUE concept will definitely be AAA.
+* Thus I have opted for low-poly graphics and simplified animations for example. And wherever I can cut back on unnecessary effects and fanciness, I do so. This game is not going to be an AAA game. But its ORIGINAL and UNIQUE concept will definitely be AAA.
 
 ### It's Going To Take Ages!
 * Let's face it, even with the strongest motivation, it doesn't change the fact that I'm working alone. So yes, development will take years and I wanted to make sure that you understand this.
