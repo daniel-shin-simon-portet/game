@@ -5,15 +5,15 @@
 ![Screenshot 3](captures/decal_editor.png?raw=true "Decal Editor")
 
 ## Planned Features
-* ### **Co-op multiplayer** with up to **40 players** per server
-* ### **Harsh planetary environment** and **unforgiving survival** elements
+* ### Co-op multiplayer with up to 40 players per server
+* ### Harsh planetary environment and unforgiving survival elements
   * (eg. oxygen, food, water, sleep, physical & mental health)
-* ### **Collaborative base-building** and tasks
+* ### Collaborative base-building and tasks
   * (eg. underground housing, space port, weather & communication towers, mining, water production, hydroponic farming, medical rescue)
-* ### **Huge 8 x 8 km world** giving rise to unique **logistical needs**
+* ### Huge 8 x 8 km world giving rise to unique logistical needs
   * (eg. ore transport via truck routes, medical rescue via space shuttle)
-* ### **Space Port trade quotas** will have to be met in order to reach higher levels of colonial development
-* ### **Waves of alien invasions** for which colonists will have to prepare thoroughly
+* ### Space Port trade quotas in order to reach higher levels of colonial development
+* ### Waves of alien invasions for which colonists will have to prepare thoroughly
   * (eg. alien detection via player-built radar towers, defensive walls/weapons/vehicles)
 
 ## Motivation
