@@ -9,9 +9,11 @@
 * ### **Harsh planetary environment** and **unforgiving survival** elements
   * (eg. oxygen, food, water, sleep, physical & mental health)
 * ### **Collaborative base-building** and tasks
-  * (eg. mining, water production, hydroponic farming, medical rescue)
+  * (eg. underground housing, space port, weather & communication towers, mining, water production, hydroponic farming, medical rescue)
 * ### **Huge 8 x 8 km world** giving rise to unique **logistical needs**
   * (eg. ore transport via truck routes, medical rescue via space shuttle)
+* ### **Waves of alien invasions** for which colonists will have to prepare thoroughly
+  * (eg. alien detection via player-built radar towers, defensive walls/weapons/vehicles)
 
 ## Motivation
 * I am mainly programming this game for my father and me. We are both hardcore survival game enthusiasts who are desperately craving for a challenge. It is difficult to find such games since the gaming industry is catered to casual gamers. And we have already tried and enjoyed most of them anyway.
