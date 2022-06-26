@@ -28,16 +28,13 @@
 * Let's face it, even with the strongest motivation, it doesn't change the fact that I'm working alone. So yes, **_development will take years_** and I want to make sure that you understand this.
 
 ## Currently Included Features:
-* Terrain and mineable rocks
+* Terrain and rocks
 * Weather events
 * Co-op multiplayer
 * Server discovery
 * Player animations
-
-## Currently Working On:
-* Player customization (torso decal)
+* Player-drawn torso decal & body customization
 * PayPal integration (for monthly subscription of around 3 euros)
-* Github website
 
 ## My Other Projects
 * [Kanji Rakuen](https://www.kanji-rakuen.org/) for advanced learners of Japanese
